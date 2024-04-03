@@ -21,16 +21,16 @@ The circuit for this project can be accessed [here](https://www.tinkercad.com/th
 
 ## Supported Colors
 
-- Red
-- Green
-- Blue
-- Yellow
-- Cyan
-- Magenta
-- White
-- Orange
-- Purple
-- Pink
+- red
+- green
+- blue
+- yellow
+- cyan
+- magenta
+- white
+- orange
+- purple
+- pink
 
 ## Note
 
